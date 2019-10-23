@@ -70,6 +70,7 @@ public class MySourceTask extends SourceTask {
     @Override
     public void stop() {
         //TODO: Do whatever is required to stop your task.
+        LOGGER.info("Stopping!");
     }
 
     private OpenSkyStates getStates(String icao24) {
