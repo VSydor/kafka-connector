@@ -12,7 +12,7 @@
     <properties>
         <kafka.version>2.2.0</kafka.version>
         <opensky.api.version>1.3.0</opensky.api.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <junit.version>4.12</junit.version>
     </properties>
 
